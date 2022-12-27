@@ -9,6 +9,5 @@ with open('page_source.txt') as f:
     # for s in arr:
     #     num[s] = arr.count(s)
     # print(num)
-    c = Counter(arr)
-    print(c.most_common())
+    print(Counter(arr).most_common())
 

@@ -41,4 +41,14 @@ with open('page_source.txt') as f:
 
 有采用更简单的方法，使用collections的Counter方法，果然运行起来快很多
 
+Counter的使用：Counter实现简单高效的计数。
 
+或在另一篇文章中写出。[见此](https://www.cnblogs.com/VicoZhang/p/17008342.html)
+
+采用Counter，可以这样写程序
+
+```
+arr = '一堆字符'
+print(Counter(arr).most_common())
+```
+得到同样结果，如此优雅~
