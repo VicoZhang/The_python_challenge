@@ -52,3 +52,7 @@ arr = '一堆字符'
 print(Counter(arr).most_common())
 ```
 得到同样结果，如此优雅~
+
+## 官方解法
+
+http://wiki.pythonchallenge.com/level2

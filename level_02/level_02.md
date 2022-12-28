@@ -52,3 +52,6 @@ print(ss.translate(trantab))
 
 url 的翻译结果是 ocr
 
+## 官方解法
+
+http://wiki.pythonchallenge.com/level1
