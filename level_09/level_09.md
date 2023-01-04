@@ -49,7 +49,8 @@ file``
 
 ## 官方
 
-http://www.pythonchallenge.com/pcc/return/good.html ? 难道和数字有关？
+http://www.pythonchallenge.com/pcc/return/good.html:huge:file
+http://wiki.pythonchallenge.com/level8 
 
 ## 记录
 
